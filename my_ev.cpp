@@ -11,6 +11,5 @@
 #pragma GCC diagnostic ignored "-W"
 
 #include "my_ev_common.h"
-#include "ev.c"
 
 #pragma GCC diagnostic pop

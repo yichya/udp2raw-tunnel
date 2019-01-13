@@ -1,0 +1,7 @@
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+.idea/
+.DS_Store
+Makefile
+install_manifest.txt

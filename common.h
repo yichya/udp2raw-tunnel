@@ -53,7 +53,7 @@
 
 #endif
 
-#include <my_ev.h>
+#include "my_ev.h"
 
 #if defined(__MINGW32__)
 #include <winsock2.h>

@@ -1,7 +1,4 @@
 
-#define EV_STANDALONE 1
-#define EV_COMMON  void *data; unsigned long long u64;
-#define EV_COMPAT3 0
 
 //#include <wepoll.h>
 #if defined(__MINGW32__)
